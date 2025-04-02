@@ -1,0 +1,42 @@
+{
+    margin:0;
+    padding:0;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    background-color: rgba(120, 176, 176, 0.74);
+}
+
+.container{
+    width:600px;
+    height:600px;
+    background-color: rgb(42, 91, 165);
+    color:azure;
+    padding:20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.wrapper div{
+    background-color: rgb(255, 0, 140);
+    padding:7px;
+    margin-top:10px ;
+}
+
+input{
+    width:80%;
+    padding:8px;
+    margin-top: 10px;
+    border:none;
+}
+
+h2{
+    margin-top: 40px;
+}
+
